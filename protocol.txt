@@ -1,0 +1,33 @@
+header.sh
+
+goodEvents.sh
+
+copy.sh
+move.sh
+
+rename.sh
+
+pz_copy.sh
+renamePZ.sh
+
+TwoStationFolder.sh
+Plot-Record-Section.sh
+moveBad.sh
+Code-Lg-2stn.sh
+New_plot.sh
+theta.sh
+goodPair.sh
+openGood.sh
+finalText.sh
+
+contour.sh
+surface.sh
+
+plot event stations
+
+Input.sh
+1Make-matrix.sh
+2Model_eval.sh
+Plot_tomography.sh
+
+Plot geology of area
